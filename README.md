@@ -1,6 +1,6 @@
-# CodingPhase Style VS Code Editor
 # CodingPhase VS Code Style
 ![enter image description here](https://github.com/codingphasedotcom/codingphase-style-vs-code/blob/main/thumb.png?raw=true)
+
 ## Why?
 I took my time to share my vs code settings because I always get asked what vs code theme you use? and my answer is always it's too long to explain... so now you guys can come here and have the exact same theme and settings I use.
 
@@ -8,7 +8,6 @@ I took my time to share my vs code settings because I always get asked what vs c
 CodingPhase Style is inspired and based on two different themes created by **[Codevars](https://github.com/codevars)** and **[thecodemonkey](https://github.com/thecodemonkey)**. My job here is to be the glue bring the best features of both themes and add my own styles. In the future I will be making this into it's own VS Code Theme and will continue to give credit to these great developers.
 
 ## Instructions
-
  1. Give this repo a star and also [outrun-meets-synthwave-repo](https://marketplace.visualstudio.com/items?itemName=codevars.outrun-meets-synthwave) + [synthwave-x-fluoromachine-epic-animations-repo](https://github.com/thecodemonkey/synthwave-x-fluoromachine-epic-animations) (If Not This Won't Work For You LOL Come On Guys it's free)
  2. Install vs code extension [Outrun Meets Synthwave](https://marketplace.visualstudio.com/items?itemName=codevars.outrun-meets-synthwave)
  3. Install vs code extension [Bearded Icons](https://marketplace.visualstudio.com/items?itemName=BeardedBear.beardedicons) 
