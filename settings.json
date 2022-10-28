@@ -1,0 +1,20 @@
+{
+  "vscode_custom_css.imports": [
+        "file:///Users/codingphase/.vscode/extensions/codevars.outrun-meets-synthwave-0.0.1/synthWaveStyles.css",
+    ],
+    "editor.fontLigatures": true,
+    "workbench.tree.indent": 20,
+    "workbench.colorTheme": "Outrun Electric Meets Synthwave",
+    "editor.fontSize": 20,
+    "editor.fontFamily": "\"Fira Code\",\"mononoki Nerd Font\", Menlo, Monaco, 'Courier New', monospace",
+    "editor.cursorSmoothCaretAnimation": true,
+    "editor.cursorBlinking": "expand",
+    "editor.lineHeight": 2.5,
+    "editor.fontWeight": "normal",
+    "editor.cursorStyle": "block-outline",
+    "window.zoomLevel": 1,
+    "terminal.external.linuxExec": "iterm",
+    "terminal.integrated.fontSize": 20,
+    "workbench.iconTheme": "bearded-icons",
+    "editor.wordWrap": "on",
+}
