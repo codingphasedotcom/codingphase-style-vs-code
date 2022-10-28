@@ -42,4 +42,5 @@ Linux:
     ]
 }
 ```
+8. Copy and paste the css inside of the `codingphase-style.css` file and replace the styles inside the `synthWaveStyles.css` file
 
