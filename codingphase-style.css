@@ -259,6 +259,8 @@ canvas {
 .vs-dark .monaco-scrollable-element>.scrollbar>.slider {
   background: rgb(153, 99, 255);
   opacity: 0.5;
+  z-index: 200;
+  cursor: pointer;
 }
 
 
