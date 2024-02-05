@@ -1,5 +1,4 @@
 
-
 /* SYNTH WAVE ORIGINAL STYLES */
 
 /* Active dots */
@@ -90,6 +89,10 @@
 }
 
 .mtk7, .mtk10 {
+  color: #fc199a;
+  
+}
+.mtk7:hover, .mtk10:hover {
   color: #fc199a;
   text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 10px #fc199a, 0 0 2px #fc199a;
 }
@@ -373,7 +376,7 @@ canvas {
 
 .monaco-editor .cursor { 
     box-shadow: 0 0 15px 2px #00c3ff;
-    animation: cursor .5s infinite linear;
+    animation: cursor 2s infinite linear;
 }
 
 
@@ -489,4 +492,3 @@ canvas {
         text-shadow: 0 0 30px #fc28a8;
     }
 }
-
